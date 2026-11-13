@@ -4,7 +4,7 @@ Site de apresentação da DaviNogware: sites para todos os negócios, feitos par
 
 - Site: https://davinogware.vercel.app
 - HTML, CSS e JS puros, sem build. A pasta raiz é publicada como está.
-- Projetos no ar (área "Projetos"): pizzaria, odontologia e vidraçaria, cada um com seu próprio deploy.
+- Projetos no ar (área "Projetos"): pizzaria, odontologia, vidraçaria, barbearia, estética e loja, cada um com seu próprio deploy.
 
 ## Como incluir um projeto novo na área "Projetos"
 
