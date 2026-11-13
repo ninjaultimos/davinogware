@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davinogware.vercel.app/sitemap.xml
